@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string-array name="urgency_levels">
+        <item>Low Urgency</item>
+        <item>Medium Urgency</item>
+        <item>High Urgency</item>
+    </string-array>
+</resources>
